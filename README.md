@@ -130,5 +130,8 @@ Criação das Rotas: Adicione imagens de pontes ou outros marcadores visuais par
 
 Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o tabuleiro fique estável e os componentes não se soltem durante o jogo.
 
->Figura 1: Imagem Ilustrativa do protótipo final do tabuleiro
+>Figura 1: Imagem Ilustrativa do protótipo final do tabuleiro.
 ![TabuleiroAntigo Projeto](tabuleiroAntigo.png)
+
+>Figura 2: Imagem Ilustrativa do robô utilizado no jogo. 
+![robo do Projeto](Imagem-robo.png)
