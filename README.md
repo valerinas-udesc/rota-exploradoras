@@ -137,3 +137,6 @@ Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o
 
 >Figura 2: Imagem Ilustrativa do robô utilizado no jogo. 
 ![robo do Projeto](Imagem-robo.jpg)
+
+# Robô
+**Modo de uso** 
