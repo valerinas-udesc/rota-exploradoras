@@ -1,3 +1,4 @@
+![Logo do Projeto](logo.png)
 
 # Rota das Exploradoras
 **Objetivo do Jogo: Inspirando a Próxima Geração de Mulheres na Tecnologia.**
