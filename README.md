@@ -140,3 +140,9 @@ Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o
 
 # Robô
 **Modo de uso** 
+O robô foi programado pelo Laboratório de Robótica da UDESC com base no tabuleiro previamente descrito, integrando funções específicas de movimentação. A dinâmica inicia com o participante planejando mentalmente a rota que o robô deve seguir. Após cada clique, o movimento correspondente é registrado e armazenado. Ao final, quando todos os comandos forem programados, o trajeto completo é executado após o clique no botão de conclusão.
+Os movimentos desenvolvidos para o robô incluem os comandos de avançar, no botão de cima, virar à esquerda, virar à direita, além das opções de cancelar o último comando, no botão de baixo, e concluir o trajeto. Essa abordagem permite que os participantes pratiquem habilidades de lógica e programação de forma interativa e prática.
+
+>Figura 3: Imagem frontal do robô utilizado no jogo.
+
+![Frente do robô](robo-frontal.png)
