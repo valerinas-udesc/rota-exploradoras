@@ -1,6 +1,7 @@
+
 ![Logo do Projeto](logo.png)
 
-# Rota das Exploradoras
+# Rota das Exploradoras 
 **Objetivo do Jogo: Inspirando a Próxima Geração de Mulheres na Tecnologia.**
 
 O jogo foi desenvolvido para apresentar às crianças de 9 a 14 anos a inspiradora trajetória de mulheres que, com coragem e determinação, desbravaram o campo da tecnologia, enfrentando e superando desafios em ambientes predominantemente masculinos. Pioneiras como Ada Lovelace, reconhecida como a primeira programadora de computadores, e Grace Hopper, criadora do primeiro compilador, abriram caminho com suas contribuições inovadoras.Essas mulheres mostraram ao mundo que criatividade, inteligência e determinação transcendem barreiras de gênero. O grupo das Valerinas visa criar um ambiente inclusivo, onde as conquistas de mulheres pioneiras e contemporâneas sejam reconhecidas, inspirando novas gerações a prosperar e desenvolver habilidades em robótica e tecnologia. Queremos incentivar meninas a explorar o campo da tecnologia e a trilhar seus próprios caminhos.
@@ -128,3 +129,6 @@ Posicionamento das Exploradoras: Conforme o manual, selecione 12 quadrados espec
 Criação das Rotas: Adicione imagens de pontes ou outros marcadores visuais para criar o caminho que o robô deverá seguir. As pontes devem ser coladas nos quadrados que compõem a rota correta.
 
 Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o tabuleiro fique estável e os componentes não se soltem durante o jogo.
+
+>Figura 1: Imagem Ilustrativa do protótipo final do tabuleiro
+![TabuleiroAntigo Projeto](tabuleiroAntigo.png)
