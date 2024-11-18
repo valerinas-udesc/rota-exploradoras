@@ -2,9 +2,9 @@
 # Rota das Exploradoras
 **Objetivo do Jogo: Inspirando a Próxima Geração de Mulheres na Tecnologia.**
 
-O jogo foi desenvolvido para apresentar às crianças a trajetória das mulheres que, com coragem e determinação, desbravaram o campo da tecnologia, superando desafios em ambientes predominantemente masculinos. Pioneiras como Ada Lovelace, reconhecida como a primeira programadora de computadores, e Grace Hopper, criadora do primeiro compilador, abriram caminho com suas contribuições inovadoras.Essas mulheres mostraram ao mundo que criatividade, inteligência e determinação transcendem barreiras de gênero. O grupo das Valerinas visa criar um ambiente inclusivo, onde as conquistas de mulheres pioneiras e contemporâneas sejam reconhecidas, inspirando novas gerações a prosperar e desenvolver habilidades em robótica e tecnologia. Queremos incentivar meninas a explorar o campo da tecnologia e a trilhar seus próprios caminhos.
+O jogo foi desenvolvido para apresentar às crianças de 9 a 14 anos a inspiradora trajetória de mulheres que, com coragem e determinação, desbravaram o campo da tecnologia, enfrentando e superando desafios em ambientes predominantemente masculinos. Pioneiras como Ada Lovelace, reconhecida como a primeira programadora de computadores, e Grace Hopper, criadora do primeiro compilador, abriram caminho com suas contribuições inovadoras.Essas mulheres mostraram ao mundo que criatividade, inteligência e determinação transcendem barreiras de gênero. O grupo das Valerinas visa criar um ambiente inclusivo, onde as conquistas de mulheres pioneiras e contemporâneas sejam reconhecidas, inspirando novas gerações a prosperar e desenvolver habilidades em robótica e tecnologia. Queremos incentivar meninas a explorar o campo da tecnologia e a trilhar seus próprios caminhos.
 
-**Regras do Jogo:**
+# Regras do Jogo
 O jogo ocorre em um tabuleiro quadriculado onde estão representadas 12 mulheres que marcaram a história da tecnologia, como Ada Lovelace e Grace Hopper.
 
 - Equipes: Formadas livremente para deixar o jogo mais dinâmico.
@@ -19,7 +19,7 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/> 
 
-**Mulheres Abordadas:**
+# Mulheres Abordadas
 
 - Ada Lovelace – Matemática e primeira programadora da história, desenvolveu o primeiro algoritmo para a máquina analítica de Charles Babbage.
 
@@ -46,68 +46,69 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 - Mary Kenneth Keller – Freira e primeira mulher a obter doutorado em computação, atuou pela inclusão feminina na informática e no uso educacional de computadores.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
 
-**Perguntas:**
+# Perguntas
 
 (1) Considerada a primeira programadora do mundo  
 
-Resposta: Ada Lovelace 
+**Resposta: Ada Lovelace**
 
 (2) Qual é a mulher conhecida como mãe da internet?   
 
-Resposta: Radia Perlman 
+**Resposta: Radia Perlman**
 
 (3) Criou o primeiro compilador para uma linguagem de programação.  
 
-Resposta: Grace Hopper 
+**Resposta: Grace Hopper**
 
 (4) Integrante da equipe que enviou o primeiro homem à lua.
 
-Resposta: Margaret Heafield Hamilton 
+**Resposta: Margaret Heafield Hamilton** 
 
 (5) Colaborou na criação de um sistema de comunicação espalhada que deu origem a tecnologias como wi-fi e bluetooth.  
 
-Resposta: Hedy Lamarr 
+**Resposta: Hedy Lamarr** 
 
 (6) Foi uma das programadoras a desenvolver um computador eletrônico. 
 
-Resposta: Jean J. Bartik 
+**Resposta: Jean J. Bartik**
 
 (7) Inventou o protocolo Spanning Tree Protocol (STP), que é fundamental para a operação de redes de computadores.  
 
-Resposta: Radia Perlman 
+**Resposta: Radia Perlman** 
 
 (8) Primeira mulher a ganhar o Prêmio Turing.  
 
-Resposta: Frances Allen 
+**Resposta: Frances Allen** 
 
 (9) Fundou o Grace Hopper Celebration of Women in Computing, a maior conferência de mulheres em tecnologia do mundo. 
-Resposta: Anita Borg 
+
+**Resposta: Anita Borg**
 
 (10) Ela desenvolveu o código do software usado para identificar aeronaves inimigas.  
 
-Resposta: Margaret Hamilton 
+**Resposta: Margaret Hamilton** 
 
 (11) Se tornou líder da equipe que atuava no projeto Apollo da NASA.  
 
-Resposta: Margaret Hamilton  
+**Resposta: Margaret Hamilton**  
 
 (12) Primeira mulher a ser PhD em ciências da computação?  
 
-Resposta: Mary K Keller 
+**Resposta: Mary K Keller**
 
 (13) Considerada a primeira mulher a desenvolver um jogo eletrônico.  
 
-Resposta: Carol Shaw 
+**Resposta: Carol Shaw**
 
 (14) Primeira mulher negra a ser engenheira da NASA?  
 
- Resposta: Mary Jackson 
+**Resposta: Mary Jackson**
 
 (15) Seu trabalho em otimização de compiladores e computação paralela foi revolucionário.  
 
-Resposta: Frances Allen 
+**Resposta: Frances Allen** 
 
-**Materiais utilizados**
+# Materiais utilizados
 
 Para facilitar a criação de novos jogos, disponibilizamos uma lista de materiais simples e acessíveis para montar o tabuleiro:
 
@@ -117,7 +118,7 @@ Para facilitar a criação de novos jogos, disponibilizamos uma lista de materia
 - Cola: Para garantir a aderência dos itens.
 - Imagens de pontes: Representando as rotas que o robô deve seguir no jogo.
   
-Instruções de Montagem do Tabuleiro:
+**Instruções de Montagem do Tabuleiro:**
 
 Preparação dos Quadrados: Utilize cada folha A4 colorida para representar um quadrado do tabuleiro. Monte os 35 quadrados de forma que formem uma grade que se adapte ao espaço.
 
