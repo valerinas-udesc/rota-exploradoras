@@ -19,7 +19,7 @@ O jogo ocorre em um tabuleiro quadriculado onde estão representadas 12 mulheres
 Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, e o jogo segue até o final. Ganha a equipe com mais pontos acumulados.
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api"/> 
 
 # Mulheres Abordadas
 
@@ -46,7 +46,7 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 - Carol Shaw – Primeira mulher a desenvolver um jogo eletrônico, inspirando gerações de mulheres na indústria dos games.
 
 - Mary Kenneth Keller – Freira e primeira mulher a obter doutorado em computação, atuou pela inclusão feminina na informática e no uso educacional de computadores.
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api"/>
 
 # Perguntas
 
@@ -110,12 +110,16 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 
 **Resposta: Frances Allen** 
 
+<img width=100% src="https://capsule-render.vercel.app/api"/>
+
 # Tabuleiro
 
 Nosso tabuleiro oficial foi enviado para impressão em uma gráfica, utilizando como base um banner com dimensões de 240 cm de largura por 120 cm de altura, composto por quadrados de 20 cm x 20 cm.Se você desejar baixar o molde original em PDF, disponibilizaremos o link aqui para facilitar o acesso. Abaixo, você pode conferir a imagem da versão mais recente do tabuleiro:
 
 >Figura 1: Imagem Ilustrativa do Tabuleiro Oficial 
 ![TabuleiroNovo Projeto](Tabuleiro-Novo.png)
+
+<img width=100% src="https://capsule-render.vercel.app/api"/>
 
 # Segunda Opção: Tabuleiro Manual
 
@@ -144,6 +148,8 @@ Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o
 
 >Figura 3: Imagem Ilustrativa do robô utilizado no jogo. 
 ![robo do Projeto](Imagem-robo.jpg)
+
+<img width=100% src="https://capsule-render.vercel.app/api"/>
 
 # Robô
 **Modo de uso** 
