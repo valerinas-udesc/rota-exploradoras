@@ -114,7 +114,7 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 
 Nosso tabuleiro oficial foi enviado para impressão em uma gráfica, utilizando como base um banner com dimensões de 240 cm de largura por 120 cm de altura, composto por quadrados de 20 cm x 20 cm.Se você desejar baixar o molde original em PDF, disponibilizaremos o link aqui para facilitar o acesso. Abaixo, você pode conferir a imagem da versão mais recente do tabuleiro:
 
-
+>Figura 1: Imagem Ilustrativa do Tabuleiro Oficial 
 ![TabuleiroNovo Projeto](Tabuleiro-Novo.png)
 
 # Segunda Opção: Tabuleiro Manual
@@ -138,11 +138,11 @@ Criação das Rotas: Adicione imagens de pontes ou outros marcadores visuais par
 Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o tabuleiro fique estável e os componentes não se soltem durante o jogo.
 
 
->Figura 1: Imagem Ilustrativa do protótipo final do tabuleiro
+>Figura 2: Imagem Ilustrativa do protótipo final do tabuleiro
 
 ![TabuleiroAntigo Projeto](tabuleiroAntigo.png)
 
->Figura 2: Imagem Ilustrativa do robô utilizado no jogo. 
+>Figura 3: Imagem Ilustrativa do robô utilizado no jogo. 
 ![robo do Projeto](Imagem-robo.jpg)
 
 # Robô
@@ -150,6 +150,6 @@ Fixação: Utilize fita adesiva e cola para fixar cada elemento e garantir que o
 O robô foi programado pelo Laboratório de Robótica da UDESC com base no tabuleiro previamente descrito, integrando funções específicas de movimentação. A dinâmica inicia com o participante planejando mentalmente a rota que o robô deve seguir. Após cada clique, o movimento correspondente é registrado e armazenado. Ao final, quando todos os comandos forem programados, o trajeto completo é executado após o clique no botão de conclusão.
 Os movimentos desenvolvidos para o robô incluem os comandos de avançar, no botão de cima, virar à esquerda, virar à direita, além das opções de cancelar o último comando, no botão de baixo, e concluir o trajeto. Essa abordagem permite que os participantes pratiquem habilidades de lógica e programação de forma interativa e prática.
 
->Figura 3: Imagem frontal do robô utilizado no jogo.
+>Figura 4: Imagem frontal do robô utilizado no jogo.
 
 ![Frente do robô](robo-frontal.png)
