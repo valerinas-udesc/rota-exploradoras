@@ -110,9 +110,12 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 
 **Resposta: Frances Allen** 
 
-# Materiais utilizados
+# Tabuleiro
 
-Para facilitar a criação de novos jogos, disponibilizamos uma lista de materiais simples e acessíveis para montar o tabuleiro:
+Nosso tabuleiro oficial foi enviado para impressão em uma gráfica, utilizando como base um banner com dimensões de 240 cm de largura por 120 cm de altura, composto por quadrados de 20 cm x 20 cm.Se você desejar baixar o molde original em PDF, disponibilizaremos o link aqui para facilitar o acesso. Abaixo, você pode conferir a imagem da versão mais recente do tabuleiro:
+# Segunda Opção: Tabuleiro Manual
+
+Para facilitar a criação de novos jogos, disponibilizamos uma lista de materiais simples e acessíveis para montar o tabuleiro, caso o grupo que esta desenvolvendo não tenha recursos para imprimir o tabuleiro em gráfica:
 
 - 35 Folhas coloridas A4: Para compor o fundo e destacar o tabuleiro.
 - 12 imagens de exploradoras: Impressas e recortadas. Essas imagens representam as pioneiras da tecnologia e devem ser posicionadas conforme o manual.
