@@ -1,6 +1,11 @@
 
 ![Logo do Projeto](logo.png)
 
+# VALERINAS
+O grupo Valerinas representa as Meninas Digitais do Alto Vale, uma iniciativa da UDESC, de parceria com as Meninas Digitais. Nossa missão principal é garantir a permanência das estudantes no curso de Engenharia de Software, promovendo um ambiente de apoio mútuo entre as alunas, além de atrair mais mulheres para a área.
+
+O curso enfrenta o desafio de um baixo número de estudantes do gênero feminino, e nosso objetivo é não apenas incentivar as alunas atuais a se manterem no curso, mas também despertar o interesse pela tecnologia desde cedo, especialmente entre crianças e adolescentes, com foco em inspirar garotas a se apaixonarem por esse universo. Acreditamos que, ao fortalecer a presença feminina em áreas da tecnologia, podemos criar uma rede de apoio a todas.  >.<
+
 # Rota das Exploradoras 
 **Objetivo do Jogo: Inspirando a Próxima Geração de Mulheres na Tecnologia.**
 
