@@ -114,7 +114,7 @@ Jogabilidade: Em cada rodada, um membro de cada equipe responde a uma pergunta, 
 
 # Tabuleiro
 
-Nosso tabuleiro oficial foi enviado para impressão em uma gráfica, utilizando como base um banner com dimensões de 240 cm de largura por 120 cm de altura, composto por quadrados de 20 cm x 20 cm.Se você desejar baixar o molde original em PDF, disponibilizaremos o link aqui para facilitar o acesso. Abaixo, você pode conferir a imagem da versão mais recente do tabuleiro:
+Nosso tabuleiro oficial foi enviado para impressão em uma gráfica, utilizando como base um banner com dimensões de 240 cm de largura por 120 cm de altura, composto por quadrados de 20 cm x 20 cm. Se você desejar baixar o molde original em PDF, disponibilizaremos o link aqui para facilitar o acesso.  Abaixo, você pode conferir a imagem da versão mais recente do tabuleiro:
 
 >Figura 1: Imagem Ilustrativa do Tabuleiro Oficial 
 ![TabuleiroNovo Projeto](Tabuleiro-Novo.png)
