@@ -168,4 +168,10 @@ Os movimentos desenvolvidos para o robô incluem os comandos de avançar, no bot
 
 Caso o seu projeto esteja se baseando no nosso, estaremos disponibilizando o código do robô no link abaixo, se sinta livre para implementa-lo!!
 
-[📄 Baixar o PDF](VALERINA 5.lmsp)
+[📄 Baixar o PDF](PDF-Robo)
+
+# ⭐ Contato  
+
+Caso tenha dúvidas ou sugestões, você pode me encontrar em:  
+📧 E-mail: [Valerinas](valerinas.ceavi@udesc.br)  
+📷 Instagram: [Valerinas]([https://github.com/SeuGitHub](https://www.instagram.com/valerinas.udesc?igsh=NjVkM212eWVkY3hl))  
