@@ -172,6 +172,8 @@ Caso o seu projeto esteja se baseando no nosso, estaremos disponibilizando o có
 
 # ⭐ Contato  
 
-Caso tenha dúvidas ou sugestões, você pode me encontrar em:  
-📧 E-mail: [Valerinas](valerinas.ceavi@udesc.br)  
-📷 Instagram: [Valerinas]([https://github.com/SeuGitHub](https://www.instagram.com/valerinas.udesc?igsh=NjVkM212eWVkY3hl))  
+Caso tenha dúvidas ou sugestões, você pode nos encontrar em:  
+
+📧 E-mail: [valerinas.ceavi@udesc.br] 
+
+📷 Instagram: [(https://www.instagram.com/valerinas.udesc?igsh=NjVkM212eWVkY3hl](https://www.instagram.com/valerinas.udesc?igsh=NjVkM212eWVkY3hl)
