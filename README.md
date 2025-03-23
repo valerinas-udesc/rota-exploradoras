@@ -168,3 +168,4 @@ Os movimentos desenvolvidos para o robô incluem os comandos de avançar, no bot
 
 Caso o seu projeto esteja se baseando no nosso, estaremos disponibilizando o código do robô no link abaixo, se sinta livre para implementa-lo!!
 
+[📄 Baixar o PDF](VALERINA 5.lmsp)
